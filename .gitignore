@@ -4,3 +4,9 @@
 !.env.example
 *.pem
 *.key
+id_ed25519
+id_ed25519.pub
+__pycache__/
+*.pyc
+app.log
+.DS_Store
