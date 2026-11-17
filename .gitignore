@@ -1,0 +1,6 @@
+# Rahasia: jangan pernah masuk repositori
+.env
+.env.*
+!.env.example
+*.pem
+*.key
