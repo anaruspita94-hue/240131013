@@ -11,6 +11,7 @@
   NIM : 240131055
 
   GitHub : mariadebbo0-lab
+  peran  : anggota tim
 - Nama : M.sahdi
 
   NIM : 240131054
